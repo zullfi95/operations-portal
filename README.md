@@ -6,6 +6,8 @@
 
 **A set of tools that runs the day-to-day work of field staff and customer service** at a services company — one portal with a single sign-in for managers, supervisors and staff on site.
 
+More projects: [sci-fi.az/en/projects](https://sci-fi.az/en/projects)
+
 ## Who it's for
 
 Facility-services, cleaning and other field-service companies with many service points (business centres, malls, clinics, offices) and staff spread across them.
@@ -13,7 +15,7 @@ Facility-services, cleaning and other field-service companies with many service 
 ## Key features
 
 - **Customer feedback through QR stickers.** Each service point has its own QR sticker; visitors rate the service in a short mobile form, and managers see reviews and ratings by location, with export to Excel and CSV.
-- **Staff check-in on site.** Staff check in at service points by NFC tag and location; managers see today's tasks, completions and check-ins on a map.
+- **Staff check-in on site.** Staff check in at service points by NFC tags and face-recognition terminals; managers see today's tasks, completions and check-ins on a map.
 - **Training academy.** A library of training videos and documents by topic and language, with tracking of who has watched and acknowledged each one.
 - **Report builder.** Managers pick metrics, grouping and period and get a ready report — table, PDF or Excel — without a developer.
 - **One portal for all modules.** Single sign-in, roles and access, three interface languages.
